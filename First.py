@@ -15,3 +15,8 @@ print("제곱 : %d" %(a**b))
 print("a %" + "b = %d" %(a%b))
 print("몫 :  %d" %(a//b))
 
+
+
+
+
+
